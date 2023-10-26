@@ -9,6 +9,11 @@ import java.awt.Color;
 /**
  *
  * @author user
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program untuk Menampilkan warna kepribadian
  */
 public class TIRegPagi22205071latihan29 {
 
